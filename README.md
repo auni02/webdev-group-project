@@ -3,6 +3,7 @@
 ## Group Members
 
 * Auni haziqah (2116050)
+* Nur Raihan Syazwani binti Suhaimi (2213262)
 
 ## Introduction
 
