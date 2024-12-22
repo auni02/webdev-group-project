@@ -4,6 +4,7 @@
 
 * Auni haziqah (2116050)
 * Nur Raihan Syazwani binti Suhaimi (2213262)
+* Muhammad Haqim Bin Hazhar (2210921)
 
 ## Introduction
 
