@@ -18,7 +18,8 @@ This proposal outlines the development of a user-centric online platform for man
 
 
 ## ERD 
-![webapp drawio](https://github.com/user-attachments/assets/490bfb2f-9852-4eec-b7f4-b84b832eb9e6)
+![webapp drawio (1)](https://github.com/user-attachments/assets/f5fc13ad-c1a4-4796-8dcd-955e6904a856)
+
 
 
 ## Sequence Diagram
