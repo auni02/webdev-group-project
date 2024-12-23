@@ -16,7 +16,7 @@ This proposal outlines the development of a user-centric online platform for man
 
 ## Features and Functionalities
 
-Filter and Search functionalities in Friendly Session Page. The user can filter type of friendly, time and date they wanted to play.
+Update features in Friendly Page. Admin can update update players name, even after the friendly session been created.
 
 
 
