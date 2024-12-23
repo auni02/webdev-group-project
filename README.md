@@ -21,7 +21,7 @@ Update features in Friendly Page. Admin can update update players name, even aft
 
 
 ## ERD 
-![webapp drawio (3)](https://github.com/user-attachments/assets/328ab3bf-056c-4005-a97c-7e260e3755a5)
+
 
 
 
