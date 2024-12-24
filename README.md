@@ -121,6 +121,9 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 
 ![friendly3](https://github.com/user-attachments/assets/7c1abf87-f44f-48d6-908c-7d185deedd40)
 
+![friendly1](https://github.com/user-attachments/assets/48d5354a-b928-4e6c-8172-1987b9a99b3b)
+
+
 **Contact Us**
 
 ![Contact Us 1](https://github.com/user-attachments/assets/eacd2c0e-c915-416b-9c9c-775c2192242f)
