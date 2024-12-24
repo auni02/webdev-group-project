@@ -79,24 +79,11 @@ update (Edit Booking Details): Allow the admin to modify an existing booking.
 delete (Cancel a Booking): Cancel an existing booking.
 
 
-**Payment Method**
+**Payment **
 
-   View Payment Records (Read): The system displays a list of payment transactions, including:
-    No: A sequential number for each transaction.
-    User ID: A unique identifier for the user who made the payment.
-    Payment ID: A unique identifier for the specific payment transaction (e.g., a transaction number).
-    Amount: The amount paid (e.g., RM12, RM18).
-    Date: The date the payment was made.
-    Payment Method: The method used for payment (e.g., FPX, Credit Card, Touch 'n Go).
-    Status: The current status of the payment (e.g., COMPLETE, PENDING).
+create: allow the admin to "PRINT" by clicking the print button, suggesting the ability to generate reports or print payment records for record keeping and reconciliation.
 
-Track Payment Status (Read): The admin can view the status of each payment, allowing them to monitor successful and pending transactions.
-
-Generate Reports/Print (Output): The system provides a "PRINT" function, suggesting the ability to generate reports or print payment records for record-keeping and reconciliation.
-
-Handle Pending Payments: a robust payment management system also includes the ability for the admin to:
-    Manually update the status of pending payments: If a payment is confirmed through other means, the admin should be able to manually change the status to "COMPLETE."
-    Investigate failed or incomplete payments: The system provides tools to help the admin identify and resolve payment issues.
+View Payment Records (Read): The system displays a list of payment transactions and admin can view the status of each payment, allowing them to monitor successful and pending transactions.
 
 **Contact Us**
 
