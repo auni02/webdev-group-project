@@ -54,9 +54,17 @@ update: allow admin to edit members' informations.
 
 delete: allow admin to delete members from list.
 
+**Payment Method
 
+Create: Enable users to add a new payment method by entering details such as cardholder name, card number, CVV, and expiry date.
 
+Read: Display the available payment options, such as credit card, FPX (Financial Process Exchange), and Touch 'n Go, for users to choose during the payment process.
 
+Update: Allow users to update their saved payment methods by editing the card details or replacing an outdated payment method with a new one.
+
+Paying Process: A confirmation screen showing successful transactions, along with transaction details like the amount paid and reference numbers, will guarantee smooth and safe payment processing.
+
+Notification: Provide a button to go back to the site and an acknowledgement page to let users know that their payment was successful.
 
 ## ERD 
 
