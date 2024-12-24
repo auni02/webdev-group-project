@@ -18,15 +18,15 @@ Some of the platform's primary characteristics are effective court management mo
 
 Designing and implementing a complete administrative web application that makes it easier to operate badminton sports facilities effectively is the main goal of this project. Enhancing operational workflows, improving user experiences, and creating a feeling of community among badminton enthusiasts are the goals of this platform. The project's precise goals are listed below:
 
-Boost the Effectiveness of Court Management.
+**Boost the Effectiveness of Court Management**
 The system will give administrators a user-friendly interface to control court availability, reservations, and timetables. In order to ensure the best possible use of the facilities while minimizing manual labor, this provides tools for adding, modifying, and cancelling court reservations.
-Simplify the Management of Memberships.
+**Simplify the Management of Memberships**
 The platform streamlines the membership signup, renewal, and status update procedures by providing a centralized mechanism for managing member data. This will guarantee precise documentation and offer members a smooth registration process.
-Encourage Involvement in the Community.
+**Encourage Involvement in the Community**
 The system has a capability for setting up friendly sessions to promote social contact and leisure activities. A vibrant badminton community may be fostered by administrators who can establish, schedule, and monitor participant details.
-Facilitate Effective Communication.
+**Facilitate Effective Communication**
 A robust "Contact Us" module will enable administrators to handle user inquiries efficiently. By providing tools for viewing, responding to, and managing communications, the platform aims to enhance user satisfaction and streamline issue resolution.
-Ensure Secure and Transparent Payment Management.
+**Ensure Secure and Transparent Payment Management**
 The platform will incorporate a reliable payment tracking system to manage transactions related to court bookings and memberships. This includes real-time payment status updates, the ability to investigate and resolve payment issues, and generating detailed financial reports for administrative use.
 
 By achieving these objectives, the proposed system will significantly improve the overall management and operational efficiency of badminton sports facilities. It will also provide a seamless experience for users, from booking courts to making secure payments, while fostering a sense of community and encouraging participation in recreational activities.
