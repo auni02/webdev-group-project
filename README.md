@@ -97,6 +97,8 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 ## Mockups
 
 **Court Booking**
+![Court Booking](https://github.com/user-attachments/assets/358e9228-ea25-4343-930d-6fbb6641041d)
+
 
 ## References
 
