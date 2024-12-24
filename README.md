@@ -14,23 +14,13 @@ This proposal outlines the development of a user-centric online platform for man
 
 ## Objectives
 
--Simplify the Court Reservation Procedures
-Reduce the need for manual scheduling and streamline user interactions by offering a user-friendly and effective platform for booking badminton courts.
+This project aims to develop an administrative web application to efficiently manage badminton sports facilities.
 
--Improve the Management of Memberships
-Make it easier for users and administrators to enrol, approve, and manage memberships while guaranteeing a smooth and convenient experience.
+Court Management: Give administrators an easy-to-use interface to effectively manage court availability, schedules, and bookings. * **Simplify Membership Administration:** Provide a streamlined process for managing member information, memberships (enrolment, renewals, status), and related data.
 
--Encourage Involvement in the Community
-can promote user interaction and cultivate a thriving badminton community by providing features like friendly sessions.
+Friendly Session Management: Provide tools for administrators to create, schedule, manage participants, and track details of friendly sessions. This will promote community engagement and simplify the organization of recreational play.
 
--Make sure that payments are processed securely.
-In order to manage court reservations, membership dues, and other monetary transactions and build user confidence, implement a dependable and secure payment module.
-
--Boost the Effectiveness of Administration
-To ensure seamless operations, provide an admin dashboard for managing court scheduling, memberships, enquiries, and player information for friendly sessions.
-
-Leverage MVC Architecture for Scalability
-Develop the system using the MVC framework to ensure scalability, maintainability, and efficient handling of user and admin functionalities.
+Ensure Secure and Transparent Payment Tracking: Develop a robust payment tracking system that provides administrators with a clear overview of all financial transactions related to court bookings and memberships. This will enhance financial transparency and simplify reconciliation processes.
 
 ## Features and Functionalities
 
