@@ -23,6 +23,8 @@ Simplify Membership Administration: Provide a streamlined process for managing m
 
 Friendly Session Management: Provide tools for administrators to create, schedule, manage participants, and track details of friendly sessions. This will promote community engagement and simplify the organization of recreational play.
 
+Enhance Communication and Inquiry Handling: Offer a centralized platform for administrators to manage user inquiries and communications received through the "Contact Us" module.
+
 Ensure Secure and Transparent Payment Tracking: Develop a robust payment tracking system that provides administrators with a clear overview of all financial transactions related to court bookings and memberships. This will enhance financial transparency and simplify reconciliation processes.
 
 ## Features and Functionalities
