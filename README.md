@@ -138,8 +138,9 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 ![Contact Us 4](https://github.com/user-attachments/assets/cbe551d4-4006-480f-ad62-49a97cb01b81)
 
 **Payment**
-
-
+<img width="712" alt="PAYMENT 1" src="https://github.com/user-attachments/assets/23d342ba-e368-4e8c-bb3a-8720a05ad895" />
+<img width="598" alt="PAYMENT2" src="https://github.com/user-attachments/assets/afb983c2-36c0-4796-a562-f73c5e6020a3" />
+<img width="600" alt="PAYMENT3" src="https://github.com/user-attachments/assets/a75dec50-0929-48f2-b7bf-f75aa7adc58a" />
 
 
 
