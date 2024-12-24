@@ -100,7 +100,9 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 
 **Court Booking**
 
-![Court Booking (1)](https://github.com/user-attachments/assets/2512fc29-15d7-4002-8fd8-ffcb5a00ac87)
+![Court Booking (2)](https://github.com/user-attachments/assets/79887576-2ce3-43b3-a188-4dbc99cc0311)
+![Court Booking (3)](https://github.com/user-attachments/assets/20ee2981-755d-49b1-87ae-dd46ba3a8f68)
+
 
 **Membership**
 ![Membership 1](https://github.com/user-attachments/assets/c1e48196-8243-4835-8faf-8c7a2b02dc26)
