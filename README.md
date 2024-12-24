@@ -54,7 +54,7 @@ update: allow admin to edit members' informations.
 
 delete: allow admin to delete members from list.
 
-**Payment Method
+**Payment Method**
 
 Create: Enable users to add a new payment method by entering details such as cardholder name, card number, CVV, and expiry date.
 
