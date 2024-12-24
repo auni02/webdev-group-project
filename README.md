@@ -23,6 +23,12 @@ read : allow admin to read the friendly list database
 update : allow admin to update ifbthere is any changes needed to update
 delete : allow admin to delete the 
 
+**Member registration**
+create: allow admin to insert new member in the databases along with member's informations.
+read: allow admin to view list of members, members' informations and their membership status.
+update: allow admin to edit members' informations.
+delete: allow admin to delete members from list.
+
 
 
 
