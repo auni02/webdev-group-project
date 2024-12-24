@@ -1,4 +1,4 @@
-# online booking system for badminton sports facilities 
+# IIUM SMASHERS
 
 ## Group Members
 
@@ -17,7 +17,13 @@ This proposal outlines the development of a user-centric online platform for man
 
 ## Features and Functionalities
 
-Update features in Friendly Page. Admin can update update players name, even after the friendly session been created.
+**Friendly session**
+create : allow admin to create a friendly session by entering the details such as, session ID, Court number, category, date, time, and players name.
+read : allow admin to read the friendly list database
+update : allow admin to update ifbthere is any changes needed to update
+delete : allow admin to delete the 
+
+
 
 
 
