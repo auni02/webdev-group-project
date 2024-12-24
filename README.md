@@ -73,6 +73,7 @@ Handle Pending Payments: a robust payment management system also includes the ab
 
 ## Sequence Diagram
 
+## Mockups
 
 ## References
 
