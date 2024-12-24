@@ -66,6 +66,17 @@ Paying Process: A confirmation screen showing successful transactions, along wit
 
 Notification: Provide a button to go back to the site and an acknowledgement page to let users know that their payment was successful.
 
+**Contact Us**
+
+Create: Allows the admin to respond to user inquiries by clicking the "Reply" button. Admin is redirected to a page where they can compose a reply, which will be sent to the user's email.
+
+Read: Enables the admin to view a list of all user inquiries. This list includes details such as the user's name, matric number, email, message content, and the date/time of submission.
+
+Update: Admin can manage and update previous replies or resend a message to users if necessary.
+
+Delete: Admin can delete inquiries from the list once they are resolved or no longer relevant.
+
+
 ## ERD 
 
 
