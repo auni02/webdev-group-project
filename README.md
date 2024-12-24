@@ -9,11 +9,28 @@
 
 ## Introduction
 
-This proposal outlines the development of a user-centric online platform for managing badminton sports facilities. The system will be built using the Model-View-Controller (MVC) architectural pattern and will offer a range of features to enhance user experience. Key modules include court booking, membership enrollment, contact us, friendly sessions, and sponsorship opportunities. This platform aims to streamline court bookings, provide convenient membership options, facilitate communication with facility management, and foster a vibrant community among badminton enthusiasts.
+This proposal outlines the development of a user-centric online platform for managing badminton sports facilities. The system, which will be constructed using the Model-View-Controller (MVC) architectural pattern, will include various features to improve user experience. Court scheduling, membership enrolment, contact us, friendly sessions, and a payment mechanism are important elements. This platform seeks to simplify court reservations, offer practical membership choices, ease contact with facility administration, and guarantee safe and easy user payment processing.
+
 
 ## Objectives
 
+-Simplify the Court Reservation Procedures
+Reduce the need for manual scheduling and streamline user interactions by offering a user-friendly and effective platform for booking badminton courts.
 
+-Improve the Management of Memberships
+Make it easier for users and administrators to enrol, approve, and manage memberships while guaranteeing a smooth and convenient experience.
+
+-Encourage Involvement in the Community
+can promote user interaction and cultivate a thriving badminton community by providing features like friendly sessions.
+
+-Make sure that payments are processed securely.
+In order to manage court reservations, membership dues, and other monetary transactions and build user confidence, implement a dependable and secure payment module.
+
+-Boost the Effectiveness of Administration
+To ensure seamless operations, provide an admin dashboard for managing court scheduling, memberships, enquiries, and player information for friendly sessions.
+
+Leverage MVC Architecture for Scalability
+Develop the system using the MVC framework to ensure scalability, maintainability, and efficient handling of user and admin functionalities.
 
 ## Features and Functionalities
 
