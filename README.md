@@ -112,6 +112,7 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 ![Membership 5](https://github.com/user-attachments/assets/3dee0dae-3db8-4e72-88ba-7102f8b13dc7)
 
 **Friendly Session**
+
 ![friendly1](https://github.com/user-attachments/assets/216130df-8500-4241-a25d-066db3cb3fd9)
 
 ![friendly2](https://github.com/user-attachments/assets/21bb5b6d-0a79-4b4c-a5bc-d8aa2565578c)
