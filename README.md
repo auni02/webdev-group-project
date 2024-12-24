@@ -63,6 +63,16 @@ Handle Pending Payments: a robust payment management system also includes the ab
     Manually update the status of pending payments: If a payment is confirmed through other means, the admin should be able to manually change the status to "COMPLETE."
     Investigate failed or incomplete payments: The system provides tools to help the admin identify and resolve payment issues.
 
+**Contact Us**
+
+Create: Allows the admin to respond to user inquiries by clicking the "Reply" button. Admin is redirected to a page where they can compose a reply, which will be sent to the user's email.
+
+Read: Enables the admin to view a list of all user inquiries. This list includes details such as the user's name, matric number, email, message content, and the date/time of submission.
+
+Update: Admin can manage and update previous replies or resend a message to users if necessary.
+
+Delete: Admin can delete inquiries from the list once they are resolved or no longer relevant.
+
 
 ## ERD 
 ![webapp drawio (4)](https://github.com/user-attachments/assets/a602783d-ee5e-4251-b034-61ebd7da824a)
