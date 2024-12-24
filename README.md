@@ -65,6 +65,7 @@ Handle Pending Payments: a robust payment management system also includes the ab
 
 
 ## ERD 
+![webapp drawio (4)](https://github.com/user-attachments/assets/a602783d-ee5e-4251-b034-61ebd7da824a)
 
 
 
