@@ -17,7 +17,9 @@ This proposal outlines the development of a user-centric online platform for man
 
 This project aims to develop an administrative web application to efficiently manage badminton sports facilities.
 
-Court Management: Give administrators an easy-to-use interface to effectively manage court availability, schedules, and bookings. * **Simplify Membership Administration:** Provide a streamlined process for managing member information, memberships (enrolment, renewals, status), and related data.
+Court Management: Give administrators an easy-to-use interface to effectively manage court availability, schedules, and bookings. 
+
+Simplify Membership Administration: Provide a streamlined process for managing member information, memberships (enrolment, renewals, status), and related data.
 
 Friendly Session Management: Provide tools for administrators to create, schedule, manage participants, and track details of friendly sessions. This will promote community engagement and simplify the organization of recreational play.
 
