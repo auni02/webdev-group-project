@@ -35,15 +35,23 @@ Develop the system using the MVC framework to ensure scalability, maintainabilit
 ## Features and Functionalities
 
 **Friendly session**
+
 create : allow admin to create a friendly session by entering the details such as, session ID, Court number, category, date, time, and players name.
-read : allow admin to read the friendly list database
-update : allow admin to update ifbthere is any changes needed to update
-delete : allow admin to delete the 
+
+read : allow admin to read the friendly list database.
+
+update : allow admin to update if there is any changes needed to update.
+
+delete : allow admin to delete the friendly session from list.
 
 **Member registration**
+
 create: allow admin to insert new member in the databases along with member's informations.
+
 read: allow admin to view list of members, members' informations and their membership status.
+
 update: allow admin to edit members' informations.
+
 delete: allow admin to delete members from list.
 
 
