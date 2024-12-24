@@ -45,6 +45,14 @@ update: allow admin to edit members' informations.
 
 delete: allow admin to delete members from list.
 
+**Court Booking**
+
+Admin View :
+
+create (Add New Booking): Allow the admin to manually book a court for a member.
+read (View All Bookings): View and filter all court bookings.
+update (Edit Booking Details): Allow the admin to modify an existing booking.
+delete (Cancel a Booking): Cancel an existing booking.
 
 
 **Payment Method**
