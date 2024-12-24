@@ -79,7 +79,7 @@ update (Edit Booking Details): Allow the admin to modify an existing booking.
 delete (Cancel a Booking): Cancel an existing booking.
 
 
-**Payment **
+**Payment**
 
 create: allow the admin to "PRINT" by clicking the print button, suggesting the ability to generate reports or print payment records for record keeping and reconciliation.
 
