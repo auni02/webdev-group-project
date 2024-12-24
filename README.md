@@ -144,5 +144,3 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 
 
 
-## References
-
