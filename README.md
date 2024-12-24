@@ -6,6 +6,7 @@
 * Nur Raihan Syazwani binti Suhaimi (2213262)
 * Muhammad Haqim Bin Hazhar (2210921)
 * Nursyazira binti Mohd Naim (2214076)
+* Nuralya Medina (2211788)
 
 ## Introduction
 
