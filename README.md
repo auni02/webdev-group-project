@@ -44,6 +44,8 @@ update: allow admin to edit members' informations.
 
 delete: allow admin to delete members from list.
 
+
+
 **Payment Method**
 
    View Payment Records (Read): The system displays a list of payment transactions, including:
@@ -77,14 +79,11 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 ## ERD 
 ![webapp drawio (4)](https://github.com/user-attachments/assets/a602783d-ee5e-4251-b034-61ebd7da824a)
 
-
-
-
-
-
 ## Sequence Diagram
+![IIUM Smashers Sequence Diagram](https://github.com/user-attachments/assets/aad11a1b-1cd8-414c-9df1-26afbbf43847)
 
 ## Mockups
+
 
 ## References
 
