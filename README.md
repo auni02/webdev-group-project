@@ -56,25 +56,22 @@ delete: allow admin to delete members from list.
 
 **Payment Method**
 
-Create: Enable users to add a new payment method by entering details such as cardholder name, card number, CVV, and expiry date.
+   View Payment Records (Read): The system displays a list of payment transactions, including:
+    No: A sequential number for each transaction.
+    User ID: A unique identifier for the user who made the payment.
+    Payment ID: A unique identifier for the specific payment transaction (e.g., a transaction number).
+    Amount: The amount paid (e.g., RM12, RM18).
+    Date: The date the payment was made.
+    Payment Method: The method used for payment (e.g., FPX, Credit Card, Touch 'n Go).
+    Status: The current status of the payment (e.g., COMPLETE, PENDING).
 
-Read: Display the available payment options, such as credit card, FPX (Financial Process Exchange), and Touch 'n Go, for users to choose during the payment process.
+Track Payment Status (Read): The admin can view the status of each payment, allowing them to monitor successful and pending transactions.
 
-Update: Allow users to update their saved payment methods by editing the card details or replacing an outdated payment method with a new one.
+Generate Reports/Print (Output): The system provides a "PRINT" function, suggesting the ability to generate reports or print payment records for record-keeping and reconciliation.
 
-Paying Process: A confirmation screen showing successful transactions, along with transaction details like the amount paid and reference numbers, will guarantee smooth and safe payment processing.
-
-Notification: Provide a button to go back to the site and an acknowledgement page to let users know that their payment was successful.
-
-**Contact Us**
-
-Create: Allows the admin to respond to user inquiries by clicking the "Reply" button. Admin is redirected to a page where they can compose a reply, which will be sent to the user's email.
-
-Read: Enables the admin to view a list of all user inquiries. This list includes details such as the user's name, matric number, email, message content, and the date/time of submission.
-
-Update: Admin can manage and update previous replies or resend a message to users if necessary.
-
-Delete: Admin can delete inquiries from the list once they are resolved or no longer relevant.
+Handle Pending Payments: a robust payment management system also includes the ability for the admin to:
+    Manually update the status of pending payments: If a payment is confirmed through other means, the admin should be able to manually change the status to "COMPLETE."
+    Investigate failed or incomplete payments: The system provides tools to help the admin identify and resolve payment issues.
 
 
 ## ERD 
