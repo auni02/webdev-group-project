@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Effective management systems for sports facilities are becoming more and more in demand as badminton gains popularity as a recreational and competitive sport. This proposal describes the creation of a user-centric web platform specifically designed for badminton sports facility management in order to address this need. This platform's main objective is to completely transform how administrators and users manage court reservations, memberships, payments, and communication.The Model-View-Controller (MVC) architectural pattern will be used in the suggested system to guarantee a scalable and maintainable framework. The platform seeks to expedite crucial processes including court scheduling, membership enrolment, friendly sessions, and money processing by combining cutting-edge web technologies with user-friendly design concepts. This initiative seeks to address the inefficiencies of manual systems, such as time-consuming bookings, difficulty in tracking payments, and miscommunication between users and administrator.
+Effective management systems for sports facilities are becoming more and more in demand as badminton gains popularity as a recreational and competitive sport. This proposal describes the creation of a user centric web platform specifically designed for badminton sports facility management in order to address this need. This platform's main objective is to completely transform how administrators and users manage court reservations, memberships, payments, and communication.The Model-View-Controller (MVC) architectural pattern will be used in the suggested system to guarantee a scalable and maintainable framework. The platform seeks to expedite crucial processes including court scheduling, membership enrolment, friendly sessions, and money processing by combining cutting-edge web technologies with user-friendly design concepts. This initiative seeks to address the inefficiencies of manual systems, such as time-consuming bookings, difficulty in tracking payments, and miscommunication between users and administrator.
 
 An effective court management module, a user-friendly membership registration process, a centralised inquiry communication tool, and a reliable payment system are some of the platform's primary characteristics. Through friendly sessions that let users socialise and engage in leisure activities, the platform also encourages community involvement. The platform guarantees financial accountability and streamlines administrative duties by offering a transparent and safe payment tracking mechanism. In the end, this system will satisfy the requirements of administrators and users alike, promoting a smooth and effective experience in overseeing badminton sports facilities.
 
@@ -18,15 +18,15 @@ An effective court management module, a user-friendly membership registration pr
 
 Designing and implementing a complete administrative web application that makes it easier to operate badminton sports facilities effectively is the main goal of this project. Enhancing operational workflows, improving user experiences, and creating a feeling of community among badminton enthusiasts are the goals of this platform. The project's precise goals are listed below:
 
--Boost the Effectiveness of Court Management
+Boost the Effectiveness of Court Management
 The system will give administrators a user-friendly interface to control court availability, reservations, and timetables. In order to ensure the best possible use of the facilities while minimizing manual labor, this provides tools for adding, modifying, and cancelling court reservations.
--Simplify the Management of Memberships
+Simplify the Management of Memberships
 The platform streamlines the membership signup, renewal, and status update procedures by providing a centralized mechanism for managing member data. This will guarantee precise documentation and offer members a smooth registration process.
--Encourage Involvement in the Community
+Encourage Involvement in the Community
 The system has a capability for setting up friendly sessions to promote social contact and leisure activities. A vibrant badminton community may be fostered by administrators who can establish, schedule, and monitor participant details.
--Facilitate Effective Communication
+Facilitate Effective Communication
 A robust "Contact Us" module will enable administrators to handle user inquiries efficiently. By providing tools for viewing, responding to, and managing communications, the platform aims to enhance user satisfaction and streamline issue resolution.
--Ensure Secure and Transparent Payment Management
+Ensure Secure and Transparent Payment Management
 The platform will incorporate a reliable payment tracking system to manage transactions related to court bookings and memberships. This includes real-time payment status updates, the ability to investigate and resolve payment issues, and generating detailed financial reports for administrative use.
 
 By achieving these objectives, the proposed system will significantly improve the overall management and operational efficiency of badminton sports facilities. It will also provide a seamless experience for users, from booking courts to making secure payments, while fostering a sense of community and encouraging participation in recreational activities.
