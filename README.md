@@ -155,6 +155,15 @@ Our homepage consists of IIUM Smashers Hall of Fame which consists of past event
 
 In membership page, admin is able to add new members, edit members' information and delete any members.
 
+**Friendly**
+![list](https://github.com/user-attachments/assets/96e145a5-a98c-43b5-9d41-50ff0cc1f56c)
+![addstudeng](https://github.com/user-attachments/assets/450bbd19-d08f-43e9-9114-b14ee484348b)
+![update](https://github.com/user-attachments/assets/8ea60f42-92e3-448c-8f9f-b48ceba00e2a)
+
+In this page, admin can add friendly session, edit session information and delete sessions.
+
+
+
 
 ## Challenge Or Difficulties
 
