@@ -160,7 +160,8 @@ Our homepage consists of IIUM Smashers Hall of Fame which consists of past event
  
  ![WhatsApp 1_16_2025 1_38_53 AM](https://github.com/user-attachments/assets/b631937e-d54f-4091-830b-4221a2a9f889)
 !![IIUM SMASHERS - Google Chrome 1_16_2025 1_39_06 AM](https://github.com/user-attachments/assets/5e831d86-3bb0-4c4c-8a66-12bf7123f743)
-![IIUM SMASHERS - Google Chrome 1_16_2025 1_39_06 AM](https://github.com/user-attachments/assets/e4ebcd1b-bdd0-4f4f-9e5e-9af9781676c7)
+![IIUM SMASHERS - Google Chrome 1_16_2025 1_38_58 AM](https://github.com/user-attachments/assets/3d8ed588-bc2e-4dff-ad27-d3d75b4e7f22)
+
 
 In membership page, admin is able to add new members, edit members' information and delete any members.
 
