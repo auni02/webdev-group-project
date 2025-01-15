@@ -141,4 +141,9 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 <img width="600" alt="PAYMENT3" src="https://github.com/user-attachments/assets/a75dec50-0929-48f2-b7bf-f75aa7adc58a" />
 
 
+## Project System Captured Screen And Explaination
+
+
+## Challenge Or Difficulties
+
 
