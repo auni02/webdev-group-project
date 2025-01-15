@@ -142,6 +142,18 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 
 
 ## Project System Captured Screen And Explaination
+**Homepage**
+![Instagram - Google Chrome 1_16_2025 1_34_28 AM](https://github.com/user-attachments/assets/55a1edf6-e65a-451d-b2e1-8f8750a0a347)
+![Instagram - Google Chrome 1_16_2025 1_34_34 AM](https://github.com/user-attachments/assets/1ff85845-40be-4841-9b16-1ee82e3a5649)
+
+Our homepage consists of IIUM Smashers Hall of Fame which consists of past events and achievements made by IIUM Smashers. In the navigation bar, there are navigations that will direct the user to its respective pages upon clicking.
+
+ **Membership**
+ ![WhatsApp 1_16_2025 1_38_53 AM](https://github.com/user-attachments/assets/b631937e-d54f-4091-830b-4221a2a9f889)
+!![IIUM SMASHERS - Google Chrome 1_16_2025 1_39_06 AM](https://github.com/user-attachments/assets/5e831d86-3bb0-4c4c-8a66-12bf7123f743)
+![IIUM SMASHERS - Google Chrome 1_16_2025 1_39_06 AM](https://github.com/user-attachments/assets/e4ebcd1b-bdd0-4f4f-9e5e-9af9781676c7)
+
+In membership page, admin is able to add new members, edit members' information and delete any members.
 
 
 ## Challenge Or Difficulties
