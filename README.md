@@ -146,4 +146,23 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 
 ## Challenge Or Difficulties
 
+**1.Collaboration Issues with GitHub**
+
+Our team encountered problems in connecting and linking our GitHub repositories effectively.
+
+**2.Difficulties with Live Share Tools**
+
+Using tools like Live Share for real-time collaboration proved challenging. Limited familiarity and technical difficulties, such as connection lags, disrupted seamless collaboration during coding sessions.
+
+**3.Time Management Constraints**
+
+Balancing project work with academic and personal responsibilities was a major challenge. Team members had differing schedules, which made it difficult to coordinate meetings and work sessions.
+
+**4.Learning Curve for Tools and Frameworks**
+
+Adopting new tools and frameworks like the MVC architecture required extra effort from the team to understand and implement effectively. This slowed down the initial development phase.
+
+**5. Debugging and Testing**
+
+Debugging errors in the code often led to the discovery of new issues, creating a cycle of fixing and retesting. This process was extremely time-consuming and required significant attention to detail to ensure all functionalities worked as intended.
 
