@@ -82,7 +82,7 @@ delete (Cancel a Booking): Cancel an existing booking.
 
 create: allow the admin to "PRINT" by clicking the print button, suggesting the ability to generate reports or print payment records for record keeping and reconciliation.
 
-View Payment Records (Read): The system displays a list of payment transactions and admin can view the status of each payment, allowing them to monitor successful and pending transactions.
+View booking and membership Payment Records (Read): The system displays a list of payment transactions and admin can view the status of each payment, allowing them to monitor successful and pending transactions.
 
 **Contact Us**
 
@@ -184,6 +184,7 @@ The Contact Us & Inquiry Dashboard page enables users to submit inquiries, while
 <img width="1437" alt="payment page" src="https://github.com/user-attachments/assets/6991866f-a4e0-4f97-ace7-48beb2dae745" />
 <img width="1440" alt="membership payment record" src="https://github.com/user-attachments/assets/0d707819-95d4-467f-89b7-14fd351e1c00" />
 <img width="1440" alt="booking payment record" src="https://github.com/user-attachments/assets/b7404a19-f91e-49cf-880e-6b69fb9e8ded" />
+This page allows admins to view membership and booking records and print the table for their reports.
 
 **Court Booking**
 ![Screenshot 2025-01-15 224926](https://github.com/user-attachments/assets/36af97c4-6a8d-4307-a1e1-bbbfab10df79)
