@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/606e9fd6-ffac-4ce4-a1ab-2c13541e3568)# IIUM SMASHERS
 
 ## Group Members
 
