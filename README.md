@@ -1,4 +1,4 @@
-# IIUM SMASHERS
+![image](https://github.com/user-attachments/assets/606e9fd6-ffac-4ce4-a1ab-2c13541e3568)# IIUM SMASHERS
 
 ## Group Members
 
@@ -142,13 +142,22 @@ Delete: Admin can delete inquiries from the list once they are resolved or no lo
 
 
 ## Project System Captured Screen And Explaination
+
+**User Authentication**
+
+![Screenshot 2025-01-16 015239](https://github.com/user-attachments/assets/676ac6b0-89d4-404a-99a0-596769c3ca83)
+
+The User Authentication page allows new users to create an account by providing their personal details, including username, email, password, and confirming their password, for secure access to the platform.
+
 **Homepage**
+
 ![Instagram - Google Chrome 1_16_2025 1_34_28 AM](https://github.com/user-attachments/assets/55a1edf6-e65a-451d-b2e1-8f8750a0a347)
 ![Instagram - Google Chrome 1_16_2025 1_34_34 AM](https://github.com/user-attachments/assets/1ff85845-40be-4841-9b16-1ee82e3a5649)
 
 Our homepage consists of IIUM Smashers Hall of Fame which consists of past events and achievements made by IIUM Smashers. In the navigation bar, there are navigations that will direct the user to its respective pages upon clicking.
 
  **Membership**
+ 
  ![WhatsApp 1_16_2025 1_38_53 AM](https://github.com/user-attachments/assets/b631937e-d54f-4091-830b-4221a2a9f889)
 !![IIUM SMASHERS - Google Chrome 1_16_2025 1_39_06 AM](https://github.com/user-attachments/assets/5e831d86-3bb0-4c4c-8a66-12bf7123f743)
 ![IIUM SMASHERS - Google Chrome 1_16_2025 1_39_06 AM](https://github.com/user-attachments/assets/e4ebcd1b-bdd0-4f4f-9e5e-9af9781676c7)
@@ -156,12 +165,20 @@ Our homepage consists of IIUM Smashers Hall of Fame which consists of past event
 In membership page, admin is able to add new members, edit members' information and delete any members.
 
 **Friendly**
+
 ![list](https://github.com/user-attachments/assets/96e145a5-a98c-43b5-9d41-50ff0cc1f56c)
 ![addstudeng](https://github.com/user-attachments/assets/450bbd19-d08f-43e9-9114-b14ee484348b)
 ![update](https://github.com/user-attachments/assets/8ea60f42-92e3-448c-8f9f-b48ceba00e2a)
 
 In this page, admin can add friendly session, edit session information and delete sessions.
 
+**Contact US Page & Inquiry**
+
+![Screenshot 2025-01-16 015945](https://github.com/user-attachments/assets/fcb8c220-34c0-4ea0-9c78-6165c85ccc0c)
+![Screenshot 2025-01-16 020009](https://github.com/user-attachments/assets/5de425f5-a4b8-400d-9f35-b7a8617644ca)
+![Screenshot 2025-01-16 020020](https://github.com/user-attachments/assets/c42f7b6f-797e-4baa-81a7-a4ce084ed80c)
+
+The Contact Us & Inquiry Dashboard page enables users to submit inquiries, while administrators can manage, respond to, and resolve these inquiries through a comprehensive dashboard.
 
 
 
