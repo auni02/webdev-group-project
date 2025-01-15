@@ -181,9 +181,9 @@ In this page, admin can add friendly session, edit session information and delet
 The Contact Us & Inquiry Dashboard page enables users to submit inquiries, while administrators can manage, respond to, and resolve these inquiries through a comprehensive dashboard.
 
 **Payment page**
-<img width="1437" alt="payment page" src="https://github.com/user-attachments/assets/6991866f-a4e0-4f97-ace7-48beb2dae745" />
-<img width="1440" alt="membership payment record" src="https://github.com/user-attachments/assets/0d707819-95d4-467f-89b7-14fd351e1c00" />
-<img width="1440" alt="booking payment record" src="https://github.com/user-attachments/assets/b7404a19-f91e-49cf-880e-6b69fb9e8ded" />
+<img width="1437" alt="booking payment record" src="https://github.com/user-attachments/assets/640face8-1f19-414a-8a76-406b3782d2fd" />
+<img width="1438" alt="membership payment record" src="https://github.com/user-attachments/assets/aa191be8-6428-472a-afde-920c56cd486b" />
+<img width="1440" alt="payment page" src="https://github.com/user-attachments/assets/5813d894-8243-41fe-930b-dbc60acfbffb" />
 This page allows admins to view membership and booking records and print the table for their reports.
 
 **Court Booking**
