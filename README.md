@@ -190,7 +190,7 @@ This page allows admins to view membership and booking records and print the tab
 ![Screenshot 2025-01-15 224926](https://github.com/user-attachments/assets/36af97c4-6a8d-4307-a1e1-bbbfab10df79)
 ![Screenshot 2025-01-16 032017](https://github.com/user-attachments/assets/e329faed-6658-4e60-a00a-5db4ad40b7aa)
 ![Screenshot 2025-01-16 032031](https://github.com/user-attachments/assets/8cabc85c-f063-4798-8512-478fee6b8bd2)
-
+This page allows admin to view, edit, update and delete court bookings from customer's orders. 
 
 ## Challenge Or Difficulties
 
